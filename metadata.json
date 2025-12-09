@@ -1,0 +1,5 @@
+{
+  "name": "Cataract AI Dashboard",
+  "description": "AI-powered screening system for cataract detection and severity analysis using retinal fundus images.",
+  "requestFramePermissions": []
+}
